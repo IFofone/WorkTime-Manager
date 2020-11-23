@@ -56,10 +56,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AccountInfoUc.cs">
+    <Compile Include="UserControls\AccountInfoUc.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="AccountInfoUc.Designer.cs">
+    <Compile Include="UserControls\AccountInfoUc.Designer.cs">
       <DependentUpon>AccountInfoUc.cs</DependentUpon>
     </Compile>
     <Compile Include="BaseForm.cs">
@@ -68,22 +68,22 @@
     <Compile Include="BaseForm.Designer.cs">
       <DependentUpon>BaseForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="CreateReminderUc.cs">
+    <Compile Include="UserControls\CreateReminderUc.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="CreateReminderUc.Designer.cs">
+    <Compile Include="UserControls\CreateReminderUc.Designer.cs">
       <DependentUpon>CreateReminderUc.cs</DependentUpon>
     </Compile>
-    <Compile Include="HomeUc.cs">
+    <Compile Include="UserControls\HomeUc.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="HomeUc.Designer.cs">
+    <Compile Include="UserControls\HomeUc.Designer.cs">
       <DependentUpon>HomeUc.cs</DependentUpon>
     </Compile>
-    <Compile Include="LoginUc.cs">
+    <Compile Include="UserControls\LoginUc.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="LoginUc.Designer.cs">
+    <Compile Include="UserControls\LoginUc.Designer.cs">
       <DependentUpon>LoginUc.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\202006291838229_CreateUserTable.cs" />
@@ -93,62 +93,62 @@
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="CreateTimerUc.cs">
+    <Compile Include="UserControls\CreateTimerUc.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="CreateTimerUc.Designer.cs">
+    <Compile Include="UserControls\CreateTimerUc.Designer.cs">
       <DependentUpon>CreateTimerUc.cs</DependentUpon>
     </Compile>
-    <Compile Include="RegisterUc.cs">
+    <Compile Include="UserControls\RegisterUc.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="RegisterUc.Designer.cs">
+    <Compile Include="UserControls\RegisterUc.Designer.cs">
       <DependentUpon>RegisterUc.cs</DependentUpon>
     </Compile>
     <Compile Include="Reminder.cs" />
-    <Compile Include="ReminderDoneUc.cs">
+    <Compile Include="UserControls\ReminderDoneUc.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="ReminderDoneUc.Designer.cs">
+    <Compile Include="UserControls\ReminderDoneUc.Designer.cs">
       <DependentUpon>ReminderDoneUc.cs</DependentUpon>
     </Compile>
-    <Compile Include="ReminderEventArgs.cs" />
-    <Compile Include="ReminderCurrentUc.cs">
+    <Compile Include="EventArgs\ReminderEventArgs.cs" />
+    <Compile Include="UserControls\ReminderCurrentUc.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="ReminderCurrentUc.Designer.cs">
+    <Compile Include="UserControls\ReminderCurrentUc.Designer.cs">
       <DependentUpon>ReminderCurrentUc.cs</DependentUpon>
     </Compile>
-    <Compile Include="TimerEventArgs.cs" />
-    <Compile Include="TimerUC.cs">
+    <Compile Include="EventArgs\TimerEventArgs.cs" />
+    <Compile Include="UserControls\TimerUC.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="TimerUC.Designer.cs">
+    <Compile Include="UserControls\TimerUC.Designer.cs">
       <DependentUpon>TimerUC.cs</DependentUpon>
     </Compile>
-    <Compile Include="RemindersUc.cs">
+    <Compile Include="UserControls\RemindersUc.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="RemindersUc.Designer.cs">
+    <Compile Include="UserControls\RemindersUc.Designer.cs">
       <DependentUpon>RemindersUc.cs</DependentUpon>
     </Compile>
     <Compile Include="Time.cs" />
     <Compile Include="TimeUnit.cs" />
-    <Compile Include="UserEventArgs.cs" />
+    <Compile Include="EventArgs\UserEventArgs.cs" />
     <Compile Include="DbContext.cs" />
-    <EmbeddedResource Include="AccountInfoUc.resx">
+    <EmbeddedResource Include="UserControls\AccountInfoUc.resx">
       <DependentUpon>AccountInfoUc.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="BaseForm.resx">
       <DependentUpon>BaseForm.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="CreateReminderUc.resx">
+    <EmbeddedResource Include="UserControls\CreateReminderUc.resx">
       <DependentUpon>CreateReminderUc.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="HomeUc.resx">
+    <EmbeddedResource Include="UserControls\HomeUc.resx">
       <DependentUpon>HomeUc.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="LoginUc.resx">
+    <EmbeddedResource Include="UserControls\LoginUc.resx">
       <DependentUpon>LoginUc.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202006291838229_CreateUserTable.resx">
@@ -163,22 +163,22 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="CreateTimerUc.resx">
+    <EmbeddedResource Include="UserControls\CreateTimerUc.resx">
       <DependentUpon>CreateTimerUc.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="RegisterUc.resx">
+    <EmbeddedResource Include="UserControls\RegisterUc.resx">
       <DependentUpon>RegisterUc.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="ReminderCurrentUc.resx">
+    <EmbeddedResource Include="UserControls\ReminderCurrentUc.resx">
       <DependentUpon>ReminderCurrentUc.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="ReminderDoneUc.resx">
+    <EmbeddedResource Include="UserControls\ReminderDoneUc.resx">
       <DependentUpon>ReminderDoneUc.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="TimerUC.resx">
+    <EmbeddedResource Include="UserControls\TimerUC.resx">
       <DependentUpon>TimerUC.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="RemindersUc.resx">
+    <EmbeddedResource Include="UserControls\RemindersUc.resx">
       <DependentUpon>RemindersUc.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="packages.config" />
@@ -195,6 +195,7 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>

@@ -23,3 +23,29 @@ D:\Škola\4. semestr\PV178\Project\WorkTimeManager\WorkTimeManager\obj\Debug\Wor
 D:\Škola\4. semestr\PV178\Project\WorkTimeManager\WorkTimeManager\obj\Debug\WorkTimeManager.ReminderCurrentUC.resources
 D:\Škola\4. semestr\PV178\Project\WorkTimeManager\WorkTimeManager\obj\Debug\WorkTimeManager.ReminderDoneUC.resources
 D:\Škola\4. semestr\PV178\Project\WorkTimeManager\WorkTimeManager\obj\Debug\WorkTimeManager.HomeUc.resources
+D:\Github\WorkTime-Manager\Project\WorkTimeManager\WorkTimeManager\bin\Debug\WorkTimeManager.exe.config
+D:\Github\WorkTime-Manager\Project\WorkTimeManager\WorkTimeManager\bin\Debug\WorkTimeManager.exe
+D:\Github\WorkTime-Manager\Project\WorkTimeManager\WorkTimeManager\bin\Debug\WorkTimeManager.pdb
+D:\Github\WorkTime-Manager\Project\WorkTimeManager\WorkTimeManager\bin\Debug\EntityFramework.dll
+D:\Github\WorkTime-Manager\Project\WorkTimeManager\WorkTimeManager\bin\Debug\EntityFramework.SqlServer.dll
+D:\Github\WorkTime-Manager\Project\WorkTimeManager\WorkTimeManager\bin\Debug\EntityFramework.xml
+D:\Github\WorkTime-Manager\Project\WorkTimeManager\WorkTimeManager\bin\Debug\EntityFramework.SqlServer.xml
+D:\Github\WorkTime-Manager\Project\WorkTimeManager\WorkTimeManager\obj\Debug\WorkTimeManager.csprojAssemblyReference.cache
+D:\Github\WorkTime-Manager\Project\WorkTimeManager\WorkTimeManager\obj\Debug\WorkTimeManager.AccountInfoUc.resources
+D:\Github\WorkTime-Manager\Project\WorkTimeManager\WorkTimeManager\obj\Debug\WorkTimeManager.BaseForm.resources
+D:\Github\WorkTime-Manager\Project\WorkTimeManager\WorkTimeManager\obj\Debug\WorkTimeManager.CreateReminderUc.resources
+D:\Github\WorkTime-Manager\Project\WorkTimeManager\WorkTimeManager\obj\Debug\WorkTimeManager.HomeUc.resources
+D:\Github\WorkTime-Manager\Project\WorkTimeManager\WorkTimeManager\obj\Debug\WorkTimeManager.LoginUc.resources
+D:\Github\WorkTime-Manager\Project\WorkTimeManager\WorkTimeManager\obj\Debug\WorkTimeManager.Migrations.CreateUserTable.resources
+D:\Github\WorkTime-Manager\Project\WorkTimeManager\WorkTimeManager\obj\Debug\WorkTimeManager.Properties.Resources.resources
+D:\Github\WorkTime-Manager\Project\WorkTimeManager\WorkTimeManager\obj\Debug\WorkTimeManager.CreateTimerUc.resources
+D:\Github\WorkTime-Manager\Project\WorkTimeManager\WorkTimeManager\obj\Debug\WorkTimeManager.RegisterUc.resources
+D:\Github\WorkTime-Manager\Project\WorkTimeManager\WorkTimeManager\obj\Debug\WorkTimeManager.ReminderCurrentUc.resources
+D:\Github\WorkTime-Manager\Project\WorkTimeManager\WorkTimeManager\obj\Debug\WorkTimeManager.ReminderDoneUc.resources
+D:\Github\WorkTime-Manager\Project\WorkTimeManager\WorkTimeManager\obj\Debug\WorkTimeManager.TimerUC.resources
+D:\Github\WorkTime-Manager\Project\WorkTimeManager\WorkTimeManager\obj\Debug\WorkTimeManager.RemindersUc.resources
+D:\Github\WorkTime-Manager\Project\WorkTimeManager\WorkTimeManager\obj\Debug\WorkTimeManager.csproj.GenerateResource.cache
+D:\Github\WorkTime-Manager\Project\WorkTimeManager\WorkTimeManager\obj\Debug\WorkTimeManager.csproj.CoreCompileInputs.cache
+D:\Github\WorkTime-Manager\Project\WorkTimeManager\WorkTimeManager\obj\Debug\WorkTimeManager.csproj.CopyComplete
+D:\Github\WorkTime-Manager\Project\WorkTimeManager\WorkTimeManager\obj\Debug\WorkTimeManager.exe
+D:\Github\WorkTime-Manager\Project\WorkTimeManager\WorkTimeManager\obj\Debug\WorkTimeManager.pdb
